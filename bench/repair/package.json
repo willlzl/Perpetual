@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "4.0.77",
-    "@openai/agents": "0.18.0",
+    "@openai/agents": "0.20.0",
     "@openai/agents-extensions": "0.18.0",
     "ai": "7.0.127",
     "jsonc-parser": "3.3.1",
